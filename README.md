@@ -1,84 +1,92 @@
-<h1 align="center">⚔️ Welcome to My Domain ⚔️</h1>
+<h1 align="center">⚔️ MAYURESH KAhar // SYSTEM ONLINE ⚔️</h1>
 
 <p align="center">
-  <i>"Set your heart ablaze."</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Initializing+Developer+Profile...;Full+Stack+SaaS+Builder;Deploying+Real+World+Products..." />
 </p>
 
 ---
 
-## 🩸 About Me
+## 🧠 SYSTEM STATUS
 
-🧑‍💻 A developer walking the path of a **code slayer**  
-🔥 Turning ideas into products, not just projects  
-🎯 Focused on building things that actually solve real problems  
-⚡ Currently leveling up in: **Full Stack + SaaS + Product Thinking**
-
----
-
-## ⚔️ My Breathing Styles (Tech Stack)
-
-💻 Languages:
-- JavaScript / TypeScript
-- Python
-- C++
-
-🌐 Frontend:
-- React
-- Next.js
-- Tailwind CSS
-
-🛠 Backend:
-- Node.js
-- Express
-- MongoDB / PostgreSQL
-
-☁️ Tools:
-- Git & GitHub
-- Docker
-- Vercel / Render
+```diff
++ Name: Mayuresh Kahar
++ Role: Full Stack Developer
++ Status: Building SaaS Products
++ Focus: Real Problems > Fake Projects
++ Location: India
+```
 
 ---
 
-## 🔥 Current Mission
-
-- 🚀 Building SaaS products based on real user pain points  
-- 🧠 Improving system design & scalability  
-- 💰 Learning how to get real users (not fake “projects”)  
-
----
-
-## 🏹 Featured Projects
-
-🔸 **Your Project Name**
-> Short one-line description of what it actually does
-
-🔸 **Another Project**
-> What problem it solves (not just tech used)
-
----
-
-## ⚡ Stats
+## ⚔️ ABILITIES (TECH STACK)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurrresh&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,git,vercel" />
 </p>
 
 ---
 
-## 🌑 Philosophy
+## 🧩 ACTIVE QUESTS
 
-> Most people build projects.  
-> I build things people actually need.
+```yaml
+current_mission:
+  - Build SaaS that solves real business problems
+  - Learn system design & scalability
+  - Acquire real users (not just code projects)
+
+side_quests:
+  - Improve frontend polish
+  - Optimize backend performance
+```
 
 ---
 
-## 🐉 Contact
+## 🏹 PROJECT TERMINAL
 
-📫 Reach me at: **mayureshkahar777@gmail.com**  
-🌐 Portfolio: **https://my-og-portfolio-bg2tupq2t-mayuresh-kahars-projects.vercel.app/**
+🔸 **Hotel Booking SaaS**
+
+> WhatsApp-based booking + dashboard for small hotels
+
+🔸 **Portfolio System**
+
+> Personal branding + showcasing real work
+
+---
+
+## ⚡ PERFORMANCE METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurresh&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=mayurresh&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurresh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧬 CORE PHILOSOPHY
+
+```text
+Most developers build projects.
+I build systems people actually use.
+```
+
+---
+
+## 📡 CONNECT
+
+<p align="center">
+  <a href="mailto:mayureshkahar777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://my-og-portfolio-bg2tupq2t-mayuresh-kahars-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>“No matter how many demons you face, keep moving forward.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
