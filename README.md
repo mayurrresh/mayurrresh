@@ -23,7 +23,7 @@
 ║  STATUS     →  🔥 Active — Shipping SaaS Products          ║
 ║  BREATHING  →  Flame Breathing · Water Breathing · Code     ║
 ║  MISSION    →  Slay Fake Projects · Build Real Systems      ║
-║  BASE       →  India  🇮🇳                                    ║
+║  BASE       →  Pune, India  🇮🇳                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -58,9 +58,11 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-FF4500?style=for-the-badge&logo=mongodb&logoColor=FFD700)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B0000?style=for-the-badge&logo=postgresql&logoColor=FFD700)
+![MySQL](https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql&logoColor=FFD700)
 ![Docker](https://img.shields.io/badge/Docker-1a0000?style=for-the-badge&logo=docker&logoColor=FF4500)
 ![Vercel](https://img.shields.io/badge/Vercel-8B0000?style=for-the-badge&logo=vercel&logoColor=FFD700)
 ![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=FFD700)
+![Postman](https://img.shields.io/badge/Postman-1a0000?style=for-the-badge&logo=postman&logoColor=FF6B35)
 
 </div>
 
@@ -99,27 +101,70 @@ philosophy: >
 
 <div align="center">
 
-### 🔥 Hotel Booking SaaS — *Flame Breathing, First Form*
+### 🔥 Managekaro — *Flame Breathing, Third Form: Student Slayer*
 ```
-┌─────────────────────────────────────────────────────┐
-│  TARGET    →  Small Hotels Drowning in Manual Work  │
-│  WEAPON    →  WhatsApp Booking + Real-time Dashboard│
-│  RESULT    →  Automation that actually gets used    │
-│  BREATHING →  Full Stack · Node · WhatsApp API      │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│  TARGET    →  Chaos in Student & Admin Management        │
+│  WEAPON    →  Next.js · MongoDB · Role-Based Architecture│
+│  RESULT    →  Clean RBAC: Admin & Student Separation     │
+│  FOCUS     →  Component Reuse · Clean Data Flow · Auth   │
+│  STATUS    →  🔥 Ongoing                                 │
+└──────────────────────────────────────────────────────────┘
 ```
 
-### 🌙 Portfolio System — *Moon Breathing, Eighth Form*
+### ⚡ QuickGPT — *Thunder Breathing, Second Form: AI Surge*
 ```
-┌─────────────────────────────────────────────────────┐
-│  TARGET    →  The Void Where Nobody Knows You       │
-│  WEAPON    →  Personal Brand + Real Work Showcase   │
-│  RESULT    →  Presence that opens doors             │
-│  BREATHING →  Next.js · Design · Storytelling       │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│  TARGET    →  The Gap Between Users and AI Power         │
+│  WEAPON    →  React · Node.js · MongoDB · Gemini API     │
+│  RESULT    →  Full-Stack AI Chatbot w/ Credit System     │
+│  FOCUS     →  Modular Backend · Auth · Scalable Schemas  │
+│  STATUS    →  ✅ Completed                               │
+└──────────────────────────────────────────────────────────┘
+```
+
+
+### 🩸 Healthcare Web App — *Water Breathing: Offline Surge*
+```
+┌──────────────────────────────────────────────────────────┐
+│  TARGET    →  Apps That Break Under Bad Networks         │
+│  WEAPON    →  Offline-First Architecture · REST APIs     │
+│  RESULT    →  Graceful Degradation · Zero Data Loss      │
+│  FOCUS     →  System Reliability · Frontend Stability    │
+│  STATUS    →  🌊 Open Source · Ongoing                   │
+└──────────────────────────────────────────────────────────┘
+```
+
+### 🧠 Cyber Crime Pattern Recognition — *Published Research*
+```
+┌──────────────────────────────────────────────────────────┐
+│  TARGET    →  Undetected Cybercrime Patterns in Data     │
+│  WEAPON    →  ML Pipelines · Classification · F1-Score   │
+│  RESULT    →  Published in IJIRCCE — November 2025       │
+│  ROLE      →  Team Lead · System Design · Delivery       │
+│  STATUS    →  📄 Published                               │
+└──────────────────────────────────────────────────────────┘
 ```
 
 </div>
+
+---
+
+## 🏯 戦歴 — WAR RECORD (EXPERIENCE)
+
+```diff
++ Media Urbana — Full Stack Developer Intern
+  Building MERN-based web apps for internal & client-facing workflows
+  React components · Node/Express APIs · Git workflows · Code reviews
+
++ Vinit Abheydya Foundation — Web Developer Intern
+  Production-level MERN app for an NGO (similar to Pune Ploggers)
+  Owned full lifecycle: UI → APIs → MongoDB → Deployment
+
++ Open Source Healthcare App — Frontend Contributor (Ongoing)
+  Offline-first system design · Network-aware UI state handling
+  REST API integration · Component refactoring for performance
+```
 
 ---
 
@@ -127,15 +172,15 @@ philosophy: >
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayurresh&show_icons=true&theme=dark&bg_color=0a0005&border_color=8B0000&title_color=FF4500&icon_color=FFD700&text_color=FF6B35&ring_color=8B0000" />
+<img src="https://github-readme-stats.vercel.app/api?username=mayurrresh&show_icons=true&theme=dark&bg_color=0a0005&border_color=8B0000&title_color=FF4500&icon_color=FFD700&text_color=FF6B35&ring_color=8B0000" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=mayurresh&theme=dark&background=0a0005&border=8B0000&ring=FF4500&fire=FFD700&currStreakLabel=FF6B35" />
+<img src="https://streak-stats.demolab.com/?user=mayurrresh&theme=dark&background=0a0005&border=8B0000&ring=FF4500&fire=FFD700&currStreakLabel=FF6B35" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurresh&layout=compact&theme=dark&bg_color=0a0005&border_color=8B0000&title_color=FF4500&text_color=FF6B35" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrresh&layout=compact&theme=dark&bg_color=0a0005&border_color=8B0000&title_color=FF4500&text_color=FF6B35" />
 
 </div>
 
@@ -149,11 +194,15 @@ philosophy: >
 
 <br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mayurrresh?theme=dark&font=Noto+Sans&ext=heatmap&border=8B0000&background=0a0005)](https://leetcode.com/u/mayurrresh/)
+<a href="https://leetcode.com/u/mayurrresh/">
+  <img src="https://leetcard.jacoblin.cool/mayurrresh?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats Card" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![LeetCode Profile](https://img.shields.io/badge/⚔️_LeetCode-FF4500?style=for-the-badge&logo=leetcode&logoColor=FFD700)](https://leetcode.com/u/mayurrresh/)
+<a href="https://leetcode.com/u/mayurrresh/">
+  <img src="https://img.shields.io/badge/LeetCode%20Profile-FF4500?style=for-the-badge&logo=leetcode&logoColor=FFD700" alt="LeetCode" />
+</a>
 
 </div>
 
@@ -192,9 +241,21 @@ philosophy: >
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📮_Send_Crow_Mail-FF4500?style=for-the-badge&logoColor=FFD700)](mailto:mayureshkahar777@gmail.com)
+<a href="mailto:mayureshkahar777@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20Crow%20Mail-FF4500?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" />
+</a>
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/⚔️_View_War_Records-8B0000?style=for-the-badge&logoColor=FFD700)](https://my-og-portfolio-bg2tupq2t-mayuresh-kahars-projects.vercel.app/)
+<a href="https://my-og-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/War%20Records-8B0000?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mayuresh-kahar-b37aa922a/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mayurrresh">
+  <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub" />
+</a>
 
 <br/><br/>
 
