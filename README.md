@@ -5,9 +5,6 @@
 
 <br/>
 
-<!-- BREATHING STYLE BADGE -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=16&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=⚔️+Flame+Breathing%2C+Eleventh+Form%3A+Shinobu+Stack...;🌊+Water+Breathing%2C+First+Form%3A+Backend+Surge...;🌙+Moon+Breathing%3A+SaaS+Products+That+Survive+Real+Users...;⚡+Total+Concentration%3A+Constant+Shipping+Mode..." />
-
 </div>
 
 ---
